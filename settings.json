@@ -1,0 +1,6 @@
+{
+	"bots" : 5,
+	"message_per_bot": 5,
+	"nickname_mainbot": "Vultam",
+	"loop": 5
+}
